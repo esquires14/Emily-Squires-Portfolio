@@ -59,5 +59,5 @@ I bring a unique combination of software engineering skills and prior experience
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/emily-squires-swe/)
-- 🌐 [Portfolio]([https://esquires14.github.io/Portfolio/](https://esquires14.github.io/Emily-Squires-Portfolio/))
+- 🌐 [Portfolio]([https://esquires14.github.io/Portfolio/](https://esquires14.github.io/Emily-Squires-Portfolio/)
 - 📧 emily.dillander20@gmail.com
